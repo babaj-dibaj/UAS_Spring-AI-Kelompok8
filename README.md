@@ -46,7 +46,7 @@ Aplikasi web untuk mengelola buku, mahasiswa, peminjaman, dan pengembalian buku.
 | Model AI | Ollama `llama3.2` |
 | Database | MySQL |
 | ORM | Hibernate/JPA |
-| Frontend | HTML, CSS, JavaScript |
+| Frontend | HTML, CSS |
 | Build tool | Maven Wrapper |
 
 ## Prasyarat
