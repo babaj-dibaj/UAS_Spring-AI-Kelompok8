@@ -1,4 +1,20 @@
 # Sistem Informasi Perpustakaan - Spring AI
+---
+
+**Mata Kuliah:** Rekayasa Perangkat Lunak Lanjut  
+**Kelompok:** 8  
+**Program Studi:** Teknik Informatika
+
+---
+## Anggota Kelompok
+
+| No. | Nama Anggota | NIM |
+|:---:|---| --- |
+| 1 | Shofwatunnisa | 12409011050121 |
+| 2 | Siti Dibaj Trikusuma | 12409011050117 |
+| 3 | Rusmin Nuryadin | 12409011050120 |
+
+---
 
 Aplikasi web untuk mengelola buku, mahasiswa, peminjaman, dan pengembalian buku. Aplikasi ini dibuat menggunakan Spring Boot, Spring AI, Hibernate/JPA, MySQL, dan Ollama sebagai AI lokal.
 
